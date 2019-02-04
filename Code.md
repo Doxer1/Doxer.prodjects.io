@@ -6,4 +6,5 @@ This is a page complied of all the prodjects i have done so far for my CTE class
 
       https://scratch.mit.edu/projects/279803406/
       
-2. ## 
+2. ## Art Prodject 
+      This Prodject was created using the coding language python it's a simple prodject involving the turtle import
